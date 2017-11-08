@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddOn id="urn:umlfri.org:plugin:ipythonconsole" xmlns="http://umlfri.org/v2/addon-list.xsd">
+    <Name name="IPython console"/>
+    <Version version="0.0.3"/>
+    <Author name="Jan Janech"/>
+    <Homepage url="http://umlfri.org"/>
+    <CommonLicense name="LGPL-3"/>
+    <Icon path="icon.png" />
+    <Description>Shows cool python console.</Description>
+
+    <Requires>
+        <Starter id="python"/>
+    </Requires>
+
+    <ChangeLog>
+        - Modified to be compatible with a new UML .FRI version
+        - Console window is always brought to the front
+    </ChangeLog>
+
+    <InstallFrom url="https://github.com/umlfri/ipython_addon/archive/v0.0.3.zip"
+                 sha256="c63072f637b819417e77dcc737869cefe5f5030265341570597482766b1a4471"/>
+</AddOn>
