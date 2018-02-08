@@ -5,7 +5,7 @@
     <Author name="Ján Janech"/>
     <Homepage url="http://umlfri.org"/>
     <CommonLicense name="GPL-3"/>
-    <Icon path="icons/OracleERD.png"/>
+    <Icon path="OracleERD.png"/>
     
     <Description>
         Entity-relationship diagram (ERD) is an abstract and conceptual representation of data.
