@@ -15,6 +15,6 @@
         Ported from the old UML .FRI version.
     </ChangeLog>
 
-    <InstallFrom url="https://github.com/umlfri/erd_addon/archive/v0.0.2.zip"
-                 sha256="098882e003bdb06969d6156f9ca2f6d4fc1913ec3ef59dde4b17fe270ad9eed8"/>
+    <InstallFrom url="https://github.com/umlfri/erd_addon/archive/v0.2.zip"
+                 sha256="da31e584109ee9b61e87092ac4c21d98adb7809c56fa37c02939b86b92f0a8a6"/>
 </AddOn>
