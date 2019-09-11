@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddOn id="urn:umlfri.org:metamodel:oracleerd" xmlns="http://umlfri.org/v2/addon-list.xsd">
+    <Name name="Oracle ERD"/>
+    <Version version="0.2"/>
+    <Author name="Ján Janech"/>
+    <Homepage url="http://umlfri.org"/>
+    <CommonLicense name="GPL-3"/>
+    <Icon path="OracleERD.png"/>
+    
+    <Description>
+        Entity-relationship diagram (ERD) is an abstract and conceptual representation of data.
+    </Description>
+
+    <ChangeLog>
+        Ported from the old UML .FRI version.
+    </ChangeLog>
+
+    <InstallFrom url="https://github.com/umlfri/erd_addon/archive/v0.0.2.zip"
+                 sha256="098882e003bdb06969d6156f9ca2f6d4fc1913ec3ef59dde4b17fe270ad9eed8"/>
+</AddOn>
