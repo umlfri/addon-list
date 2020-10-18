@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddOn id="urn:umlfri.org:metamodel:oracleerd" xmlns="http://umlfri.org/v2/addon-list.xsd">
+    <Name name="Simple Java Generator"/>
+    <Version version="0.0.1"/>
+    <Author name="Jan Janech"/>
+    <Homepage url="http://umlfri.org"/>
+    <CommonLicense name="LGPL-3"/>
+    <Icon path="coffee.png" />
+    <Description>Exports class as Java source code</Description>
+
+    <ChangeLog>
+        First version.
+    </ChangeLog>
+
+    <InstallFrom url="https://github.com/umlfri/simple_java_gen_addon/archive/0.0.1.zip"
+                 sha256="593a45e2f0a64c9bbc50d02d967c2b4df6e8a796ead4005cb26b0f86aa0e3cb8"/>
+</AddOn>
