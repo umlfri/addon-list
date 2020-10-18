@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AddOn id="urn:umlfri.org:metamodel:oracleerd" xmlns="http://umlfri.org/v2/addon-list.xsd">
+<AddOn id="urn:umlfri.org:plugin:simplejavagen" xmlns="http://umlfri.org/v2/addon-list.xsd">
     <Name name="Simple Java Generator"/>
     <Version version="0.0.1"/>
     <Author name="Jan Janech"/>
